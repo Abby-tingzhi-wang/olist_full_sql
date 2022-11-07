@@ -32,3 +32,6 @@ about the orders volume, delivery time, valuable customer markets, important sel
 6. Again go to the folder and open `import_data.sql` , replace all path with your downloaded path inside your computer
 7. Select all code and execute it, this will import all data
 8. Plug and play with the queries or do your own analysis
+
+### **How to create analyses**
+You can get some inspiration by looking at `Frequency_analysis_of_orders.ipynb` to begin with!
